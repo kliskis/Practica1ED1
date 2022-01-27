@@ -1,3 +1,2 @@
 
-tex<textointermedio>to2
-texto3
+tex<textointermedio>to6 test
